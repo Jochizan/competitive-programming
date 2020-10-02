@@ -1,5 +1,3 @@
-# Resolución a Problemas con Algoritmos
-
-Aqui no estan wey mira las ramas xDe.
+# Aquí estan las bases de la programación en Java
 
 # Saludos a Todos :3
