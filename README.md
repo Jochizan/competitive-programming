@@ -1,5 +1,5 @@
-# Resolución a Problemas con Algoritmos
+# Resolución a Problemas de ProyectoEuler
 
-Aqui no estan wey mira las ramas xDe.
+Aquí estaran los problemas de ProyectoEuler.
 
 # Saludos a Todos :3
