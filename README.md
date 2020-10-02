@@ -1,3 +1,5 @@
-# Programas_VSC_C
+# Resolución a Problemas con Algoritmos
 
-Este es un repositorio para mis programas de c++ en VS_Code
+Aqui no estan wey mira las ramas xDe.
+
+# Saludos a Todos :3
