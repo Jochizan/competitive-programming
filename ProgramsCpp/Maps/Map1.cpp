@@ -22,7 +22,7 @@ int main() {
     n.insert(par(2, "Antonio"));
     n.insert(par(3, "Joan"));
     map<int, string>::iterator i;
-    for(i = n.begin(); i !=n.end(); ++i) {
+    for(i = n.begin(); i != n.end(); ++i) {
         cout << "Clave = " << i -> first << ":Valor = " << i -> second << endl;
     }
     return 0;

@@ -1,22 +1,23 @@
 // Tipos de datos básicos de c++
 
-#include<iostream>
+#include <iostream>
 #include <a.out.h>
 
-using namespace std;
-long long ll;
+#define ll long long;
 
-void solved(){
+using namespace std;
+
+void solved()
+{
     ll mA;
-    cin >> nA;
+    cin >> mA;
     cout << "Hola mundo" << endl;
-    cout << MA << endl;
+    cout << mA << endl;
 }
 
 int main()
 {
     int numero = 15;
-
-    cout<<numero<<endl;
+    cout << numero << endl;
     return 0;
 }
