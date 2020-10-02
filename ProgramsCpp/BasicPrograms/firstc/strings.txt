@@ -1,5 +1,0 @@
-Cadenas de caracteres se utilizan las librerias:
-#include <iostream>
-#inlcude <conio.h>
-#inlcude <string.h>
-
