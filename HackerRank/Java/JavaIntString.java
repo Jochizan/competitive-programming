@@ -1,3 +1,5 @@
+package HackerRank.java;
+
 import java.util.*;
 import java.security.*;
 
@@ -9,7 +11,7 @@ public class JavaIntString {
 
         try {
             Scanner in = new Scanner(System.in);
-            int n = in .nextInt();
+            int n = in.nextInt();
             in.close();
             //String s=???; Complete this line below
             //String s = in.next();
